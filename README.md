@@ -45,5 +45,6 @@ src="https://github.com/devmatheusguerra/devmatheusguerra/raw/main/banner.png">
   <img align="center" src="https://img.shields.io/badge/-Medium-05122A?style=flat&logo=medium" alt="medium"/>  </a> <a href="https://instagram.com/dev.matheusguerra" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-Instagram-05122A?style=flat&logo=instagram" alt="instagram"/>  
 </a> <a href="https://www.linkedin.com/in/matheus-guerra-991b0b124/" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-LinkedIn-05122A?style=flat&logo=linkedin" alt="linkedin"/> </a>
+  <img align="center" src="https://img.shields.io/badge/-LinkedIn-05122A?style=flat&logo=linkedin" alt="linkedin"/> </a> <a href="https://www.youtube.com/channel/UCH4FplCTdWSUqzD-5Etm78g" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/-Youtube-05122A?style=flat&logo=youtube" alt="youtube"/> </a>
 </p>
